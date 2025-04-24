@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm and VSCode
+.idea/
+.vscode/
+
+# Data files
+*.csv
+*.tsv
+*.data
+*.dat
+*.npz
+*.npy
+*.h5
+*.sqlite
+*.db
+
+# Models & outputs
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.sav
+*.model
+*.onnx
+
+# Large binary files / logs
+*.log
+*.bak
+*.tmp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Plot and image outputs
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Conda
+*.conda
+*.lock
