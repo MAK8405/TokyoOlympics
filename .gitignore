@@ -55,6 +55,5 @@ Thumbs.db
 
 # Conda
 *.conda
-*.lock
 *.xlsx
 4.2.0
